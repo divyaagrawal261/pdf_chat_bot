@@ -38,8 +38,8 @@ This is a full-stack application that allows users to upload a PDF and ask quest
 ### 1. Clone the repository and navigate:
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-name>
+git clone https://github.com/divyaagrawal261/pdf_chat_bot.git
+cd pdf_chat_bot
 ```
 
 ### 2. Create a virtual environment and activate it:
